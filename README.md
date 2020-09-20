@@ -66,3 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+##
+Credits to https://github.com/bradtraversy/vanillawebprojects for providing the hangman figure used in Figure.js, as well as other snippets.
